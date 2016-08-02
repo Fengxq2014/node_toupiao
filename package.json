@@ -1,0 +1,22 @@
+{
+  "name": "node_toupiao",
+  "version": "1.0.0",
+  "description": "投票",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test -t 2000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Fengxq2014/node_toupiao.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "defned",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fengxq2014/node_toupiao/issues"
+  },
+  "homepage": "https://github.com/Fengxq2014/node_toupiao#readme"
+}
